@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">D Marketing Hubs</string>
+    <string name="string1">Bournvita is available 500g in plastic box. From here you can buy a bundle of Bournvita, In one Cartoon of Bornvita 15 box of 500g which will contain.</string>
+    <string name="title_activity_order_history">OrderHistoryActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="string2">Cadbury Celebration Silk Chocolate which weighs 233g. You will get 12 bars in a box, each price of which is Rs 275.</string>
+    <string name="string3">Cadbury Chocolate Shots This pack contains 208gm. There are 12 chocolate packets in one packet. Which combines 12 packets to form one packet, 48 such packets will be found in 1 cartoon.</string>
+    <string name="string4"><![CDATA[Cadbury Dairy Milk Fruit & Nut Chocolate Bar whose weight is 36gm, which is mixed 9 times to make one packet. We make a cartoon by mixing 40 such packets.]]></string>
+</resources>
